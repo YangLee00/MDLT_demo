@@ -1,4 +1,4 @@
-# MDLT_demo
+# DLTM_demo
 A simple implementation of paper "A Dual-Scale Lead-Separated Transformer with Lead Orthogonal Attention and Meta-information for ECG Classification" 
 
 The code is coming.
